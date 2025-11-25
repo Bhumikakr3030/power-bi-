@@ -82,14 +82,6 @@ You can add images like this:
 
 ---
 
-## 🙋‍♀️ Author
-
-**Bhumika K.R**  
-Power BI | Frontend Development | Cloud | Data Analytics  
-(You can add LinkedIn/GitHub profile links)
-
----
-
 ## ⭐ Support
 
 If this repository helped you, consider giving it a **star ⭐ on GitHub!**
