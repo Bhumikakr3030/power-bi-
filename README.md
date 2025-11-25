@@ -33,25 +33,20 @@ It represents my work in **data cleaning, modeling, DAX, visualizations, and bus
   - `Mobile Sales Dashboard.pdf`  
   - `Mobile Sales Dashboard.pbit`  
 
-### 🔹 **2. MS Dashboard (Sales)**
-- Analysis of revenue, orders, category performance  
-- Files:  
-  - `MS_Dashboard.pbix`  
-  - `MS_Dashboard.pdf`
 
-### 🔹 **3. Customers Data Dashboard**
+### 🔹 **2. Customers Data Dashboard**
 - Customer segmentation  
 - Purchase behavior analysis  
 - Files:  
   - `customers.pbix`  
   - `customers.pdf`
 
-### 🔹 **4. HR / Employee Data Analysis**
+### 🔹 **3. HR / Employee Data Analysis**
 - Employee performance  
 - Attendance and KPI trends  
 - Dataset: `Employee-Management-Sample-Data.xlsx`
 
-### 🔹 **5. Tech Products and Sales Analysis**
+### 🔹 **4. Tech Products and Sales Analysis**
 - DAX-based trend analysis  
 - Category and sub-category KPIs  
 - Files: `Tech_Products_Sales_Data.xlsx`
